@@ -6,7 +6,7 @@ import cv2
 from keras.applications.vgg16 import VGG16, preprocess_input
 
 left = np.load('variables/stream2_train_lfdd_mli.npz') #train
-#left = np.load('Bottleneck/stream1_test_mpi_mli_256x256.npz') #test
+
 X_trainLeft = left['image_left']
 
 width, height = 256, 256 
