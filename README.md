@@ -4,7 +4,7 @@ In this work, we present a NR LF-IQA metric that is a Long Short-Term Memory bas
 ## Generation of EPI:
 We generated EPIs using the method MultiEPL https://bit.ly/3Da8fB6
 
-## Generation of MLI:
+## Generation of MLI (Would not possible without the support of https://github.com/Chawin-S):
 The code to generate MLI is given in direcorty Prep:
 1. Setup the paths to input in run.m file. 
 2. Run run.m to generate MLIs. 
@@ -14,7 +14,6 @@ The code to generate vgg16 bottlenceck feaures of MLI is given in direcorty Prep
 1. Setup the paths to input in extract_bottleneck_features.py file.
 2. Run extract_bottleneck_features.py 
 
-## Train / Test the model:
+## Training Model:
 1. Prepare the EPIs and Bottleneck features of MLIs.
-2. To train the model, run train.py file after setting paths to inputs EPI and Bottleneck features.
-3. Run test.py to test the trained model.
+2. To train the model, import functions from training_model.py file, and pass the parameters accordingly.
