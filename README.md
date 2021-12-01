@@ -4,7 +4,8 @@ In this work, we present a NR LF-IQA metric that is a Long Short-Term Memory bas
 ## Generation of EPI:
 We generated EPIs using the method MultiEPL https://bit.ly/3Da8fB6
 
-## Generation of MLI (Would not possible without the support of https://github.com/Chawin-S):
+## Generation of MLI:
+I am grateful to https://github.com/Chawin-S to achieve this task.
 The code to generate MLI is given in direcorty Prep:
 1. Setup the paths to input in run.m file. 
 2. Run run.m to generate MLIs. 
