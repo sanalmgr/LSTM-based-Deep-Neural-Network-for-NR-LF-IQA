@@ -25,15 +25,15 @@ The code to generate vgg16 bottlenceck feaures of MLI is given in direcorty Prep
 ## Cite this article:
 ```
 @INPROCEEDINGS {9859419,
-author = {S. Alamgeer and M. Q. Farias},
-booktitle = {2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)},
-title = {No-Reference Light Field Image Quality Assessment Method Based on a Long-Short Term Memory Neural Network},
-year = {2022},
-pages = {1-6},
-doi = {10.1109/ICMEW56448.2022.9859419},
-url = {https://doi.ieeecomputersociety.org/10.1109/ICMEW56448.2022.9859419},
-publisher = {IEEE Computer Society},
-address = {Los Alamitos, CA, USA},
-month = {jul}
+  author = {S. Alamgeer and M. Q. Farias},
+  booktitle = {2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)},
+  title = {No-Reference Light Field Image Quality Assessment Method Based on a Long-Short Term Memory Neural Network},
+  year = {2022},
+  pages = {1-6},
+  doi = {10.1109/ICMEW56448.2022.9859419},
+  url = {https://doi.ieeecomputersociety.org/10.1109/ICMEW56448.2022.9859419},
+  publisher = {IEEE Computer Society},
+  address = {Los Alamitos, CA, USA},
+  month = {jul}
 }
 ```
